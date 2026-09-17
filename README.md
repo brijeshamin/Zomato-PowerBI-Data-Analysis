@@ -10,6 +10,14 @@ The objective of this project is to demonstrate practical skills in **data analy
 
 ---
 
+## 📂 Data Source
+
+The analysis is based on a Zomato restaurant dataset containing information about restaurants, locations, cuisines, ratings, pricing, table booking, and online delivery.
+
+The dataset was cleaned and transformed using Power Query before being used for analysis and dashboard development in Power BI.
+
+---
+
 ## 🎯 Business Questions
 
 This project explores the following business questions:
