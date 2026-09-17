@@ -79,9 +79,9 @@ The project demonstrates the use of:
 
 ## 📊 Dashboard Preview
 
-Dashboard screenshots will be added here.
+### Zomato Restaurant Analysis Dashboard
 
-> Screenshots of the Power BI dashboard will be included in this repository.
+![Zomato Restaurant Analysis Dashboard](zomato-dashboard-overview.png)
 
 ---
 
