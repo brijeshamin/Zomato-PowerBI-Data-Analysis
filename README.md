@@ -99,6 +99,20 @@ The project demonstrates the use of:
 
 ---
 
+## 💡 Key Insights
+
+Based on the dashboard analysis:
+
+- The dataset contains **9,551 restaurants** across **141 cities** and **15 countries**.
+- **New Delhi** has the highest number of restaurants in the dataset, followed by **Gurgaon** and **Noida**.
+- **North Indian** cuisine has the highest restaurant count among the cuisines shown.
+- The overall average restaurant rating is **2.89**.
+- The average cost for two is approximately **₹1.2K**.
+- **13.64%** of restaurants offer table booking, while **86.36%** do not.
+- **22.57%** of restaurants offer online delivery, while **77.43%** do not.
+
+---
+
 ## 📁 Project Files
 
 | File | Description |
