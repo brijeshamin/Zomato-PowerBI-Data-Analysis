@@ -10,6 +10,20 @@ The objective of this project is to demonstrate practical skills in **data analy
 
 ---
 
+## 🎯 Business Questions
+
+This project explores the following business questions:
+
+1. Which country has the highest number of restaurants listed?
+2. Which cities have the highest number of restaurants?
+3. Which cuisines have the highest number of restaurants?
+4. How does the average rating vary by cuisine?
+5. How many restaurants offer table booking?
+6. How many restaurants offer online delivery?
+7. What relationship can be observed between the cost for two and restaurant ratings?
+
+---
+
 ## 🎯 Project Objectives
 
 - Analyze restaurant distribution across locations
